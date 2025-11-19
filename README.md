@@ -3,15 +3,15 @@ Trello :
 https://trello.com/b/wMwxE52u/darwins-notebook
 
 
-## 🧬 Darwin’s NoteBook
+# 🧬 Darwin’s NoteBook
 
 Un Pokédex pour la vraie vie — découvrez, identifiez et explorez le monde animal.
 
 Darwin’s NoteBook est une application permettant d’identifier instantanément des animaux à partir d’un scan en direct ou d’une photo importée. Obtenez des informations complètes, des sons authentiques et même la possibilité de reconnaître les animaux par leurs cris.
 Un outil éducatif, scientifique et ludique à la fois.
 
-## 🚀 Fonctionnalités principales
-# 🔍 Identification d’animaux
+# 🚀 Fonctionnalités principales
+## 🔍 Identification d’animaux
 
 - Scanner un animal en temps réel via la caméra.
 
@@ -41,25 +41,25 @@ Un outil éducatif, scientifique et ludique à la fois.
 
 - Aire de répartition
 
-## Caractéristiques particulières
+# Caractéristiques particulières
 
 - Comportement
 
 - Images & sons
 
-# 📸 Infos en surcouche caméra (Live Overlay)
+## 📸 Infos en surcouche caméra (Live Overlay)
 
 - Informations en temps réel directement sur l’image de la caméra.
 
 - Identification en continu (optionnelle).
 
-# 🔊 Audio : reconnaissance et reproduction
+## 🔊 Audio : reconnaissance et reproduction
 
 - Lecture du cri ou du son authentique de l’animal.
 
 - Reconnaissance sonore via le microphone : identifiez un animal grâce à son cri.
 
-# 💬 Interaction utilisateur
+## 💬 Interaction utilisateur
 
 - Envoi de commentaires.
 
