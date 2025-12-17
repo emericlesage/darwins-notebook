@@ -5,6 +5,9 @@ https://trello.com/b/wMwxE52u/darwins-notebook
 UML :
 https://www.figma.com/design/0M7aCFv4qqwSyItcRMg305/Architecture-Diagram-Components--Community-?node-id=0-1&p=f&t=CNJkfnGbAMlRzIxT-0
 
+<img width="819" height="753" alt="image" src="https://github.com/user-attachments/assets/525c8d25-be21-4351-bd15-c330b79295c6" />
+
+
 Maquette :
 https://www.figma.com/make/IVLueWTq3JIlcrnCFQlgch/Animal-Information-App?p=f&t=nzIxHfGFWOv6qOOE-0
 
