@@ -17,6 +17,9 @@ https://www.figma.com/make/IVLueWTq3JIlcrnCFQlgch/Animal-Information-App?p=f&t=n
 
 <img width="342" height="660" alt="image" src="https://github.com/user-attachments/assets/ecdd599a-d2c8-45fe-8e76-4d7d7254fd44" />
 
+<img width="314" height="661" alt="image" src="https://github.com/user-attachments/assets/1e6e2074-4afa-4313-acaf-ada246779b7c" />
+
+
 
 # 🧬 Darwin’s NoteBook
 
