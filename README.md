@@ -2,6 +2,12 @@
 Trello :
 https://trello.com/b/wMwxE52u/darwins-notebook
 
+UML :
+https://www.figma.com/design/0M7aCFv4qqwSyItcRMg305/Architecture-Diagram-Components--Community-?node-id=0-1&p=f&t=CNJkfnGbAMlRzIxT-0
+
+Maquette :
+https://www.figma.com/make/IVLueWTq3JIlcrnCFQlgch/Animal-Information-App?p=f&t=nzIxHfGFWOv6qOOE-0
+
 
 # 🧬 Darwin’s NoteBook
 
