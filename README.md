@@ -11,6 +11,12 @@ https://www.figma.com/design/0M7aCFv4qqwSyItcRMg305/Architecture-Diagram-Compone
 Maquette :
 https://www.figma.com/make/IVLueWTq3JIlcrnCFQlgch/Animal-Information-App?p=f&t=nzIxHfGFWOv6qOOE-0
 
+<img width="349" height="665" alt="image" src="https://github.com/user-attachments/assets/b62e2e90-e8b1-4c69-8871-5d47bf800ae4" />
+
+<img width="355" height="666" alt="image" src="https://github.com/user-attachments/assets/73ed3a18-fe19-4c39-a20d-401fcbb3e89e" />
+
+<img width="342" height="660" alt="image" src="https://github.com/user-attachments/assets/ecdd599a-d2c8-45fe-8e76-4d7d7254fd44" />
+
 
 # 🧬 Darwin’s NoteBook
 
